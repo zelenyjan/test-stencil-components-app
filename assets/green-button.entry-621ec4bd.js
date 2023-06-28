@@ -1,0 +1,1 @@
+import{r as e,h as n}from"./index-dd1e5e8a.js";const r="button{padding:20px;background:#22b922;color:white}",o=class{constructor(t){e(this,t),this.label=void 0}render(){return n("button",{type:"button"},this.label)}};o.style=r;export{o as green_button};
