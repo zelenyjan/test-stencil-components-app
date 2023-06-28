@@ -1,0 +1,1 @@
+async function o(t){return new Promise(e=>setTimeout(e,t))}function i(t,e){let r=0;return function(...n){clearTimeout(r),r=setTimeout(()=>t.apply(this,n),e)}}const s=(t,e)=>Object.prototype.hasOwnProperty.call(e,t),c=(t,e)=>s(t,e)?e[t]:void 0,a=(t,e)=>Object.fromEntries(Object.entries(t).filter(([r])=>e.includes(r)));export{c as a,o as d,s as h,a as p,i as t};

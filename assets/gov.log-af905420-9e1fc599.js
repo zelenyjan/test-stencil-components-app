@@ -1,0 +1,1 @@
+const s={bg:"#ecae1a",text:"#3b3b3b"},a={bg:"#2362a2",text:"#fff"},c={bg:"#c52a3a",text:"#fff"},g=(o,t=a)=>{const n=["color: "+t.text,"background: "+t.bg,"font-size: 11px","padding: 2px 4px","border-radius: 3px","font-weight: 600"].join(";");console.log("%cgov",n,o)},e=o=>{g(o,s)},b=o=>{g(o,c)};export{e as a,b as g};

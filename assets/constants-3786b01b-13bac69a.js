@@ -1,0 +1,1 @@
+const s={root:"gov-layout",section:"gov-layout__section"};var t;(function(o){o.STRETCH="stretch",o.ASIDE="aside",o.TEXT="text"})(t||(t={}));var a;(function(o){o.LEFT="left",o.RIGHT="right"})(a||(a={}));const n={root:"gov-layout-column"};export{s as L,n as a};

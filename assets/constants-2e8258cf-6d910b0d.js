@@ -1,0 +1,1 @@
+import{S as t}from"./sizes-6c5943b4-77be388d.js";import{V as m}from"./variants-2b936d58-0853e1f0.js";import{p as o}from"./utils-c057a3fa-060e2c21.js";const a=o(t,["_M","_L","_XL"]),i=o(m,["PRIMARY","SECONDARY"]),p={root:"gov-form-autocomplete",list:"gov-form-autocomplete__list",item:"gov-form-autocomplete__item"};export{p as F,i as a,a as b};

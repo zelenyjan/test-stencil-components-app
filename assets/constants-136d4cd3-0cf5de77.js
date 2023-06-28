@@ -1,0 +1,1 @@
+import{S as o}from"./sizes-6c5943b4-77be388d.js";import{V as s}from"./variants-2b936d58-0853e1f0.js";import{p as t}from"./utils-c057a3fa-060e2c21.js";const r=t(o,["_M","_L","_XL"]),l=t(s,["PRIMARY","SECONDARY"]),a={root:"gov-form-multi-select",wrap:"gov-form-multi-select__wrap",list:"gov-form-multi-select__list",item:"gov-form-multi-select__item"};export{a as F,l as a,r as b};

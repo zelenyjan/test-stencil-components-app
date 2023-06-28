@@ -1,0 +1,1 @@
+import{a as e}from"./utils-c057a3fa-060e2c21.js";const c=n=>window&&e(n,window),o=()=>{const n={canValidateWcagOnRender:!1,iconsPath:"./assets/icons",documentNode:document||null},t=c("GOV_DS_CONFIG");return t?Object.assign(Object.assign({},n),t):n},s=()=>o().canValidateWcagOnRender,d=()=>o().iconsPath,i=()=>o().documentNode;export{s as c,i as d,d as i};

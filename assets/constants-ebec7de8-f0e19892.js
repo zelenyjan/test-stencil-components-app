@@ -1,0 +1,1 @@
+import{p as o}from"./utils-c057a3fa-060e2c21.js";import{S as l}from"./sizes-6c5943b4-77be388d.js";o(l,["_XS","_S","_M","_L","_XL"]);const e={root:"gov-form-label",label:"gov-form-label__label"};export{e as F};

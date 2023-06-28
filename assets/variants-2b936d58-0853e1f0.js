@@ -1,0 +1,1 @@
+var S;(function(c){c.PRIMARY="primary",c.SECONDARY="secondary",c.SUCCESS="success",c.ERROR="error",c.WARNING="warning",c.CUSTOM="custom"})(S||(S={}));var o;(function(c){c.CLASSIC="classic",c.SOLID="solid"})(o||(o={}));export{o as T,S as V};

@@ -1,0 +1,1 @@
+import{a as r}from"./gov.log-af905420-9e1fc599.js";const l=(i,a,o)=>{const e=Object.values(i);e.indexOf(a)>-1||r(`[${o}]: Bad parameter with value (${a}). Available parameters are (${e.join(", ")}).`)};export{l as v};
